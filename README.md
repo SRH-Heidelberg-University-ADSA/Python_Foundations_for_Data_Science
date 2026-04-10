@@ -89,7 +89,6 @@ Please complete your environment setup **before the first lab session**.
 
 All lab take-home assignments are submitted via your **private GitHub repository**.
 Please refer to [`SUBMISSION_INSTRUCTIONS.md`](./SUBMISSION_INSTRUCTIONS.md) for full setup and submission instructions.
-
 ---
 
 ## Academic Integrity
@@ -102,5 +101,3 @@ All submitted work must be your own. You are encouraged to discuss concepts with
 - All module announcements will be posted via **Moodle (e-campus)**. Students are responsible for checking regularly.
 - For Questions related to the Lectures, please contact [Anil Keshav](mailto:anil.keshav.extern@srh-hochschulen.de).
 - For Questions related to the Labs, please contact [Ghadeer Mobasher](mailto:ghadeer.mobasher@srh-hochschulen.de).
-
----
