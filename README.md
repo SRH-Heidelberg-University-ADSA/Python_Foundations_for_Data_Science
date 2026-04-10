@@ -10,8 +10,7 @@ By the end of this module, students will be equipped with the practical Python s
 
 | Week | Topic | Lecture | Lab |
 |------|-----------------------------------------------|---------|-----|
-| 1 | Introduction to Python & Programming
-Concepts| ✅ | ✅ |
+| 1 | Introduction to Python & Programming Concepts| ✅ | ✅ |
 | 2 | Control Flow & Logic | ✅ | ✅ |
 | 3 |Core Data Structures| ✅ | ✅ |
 | 4 | Functions & Modular Programming | ✅ | ✅ |
@@ -95,7 +94,7 @@ Please refer to [`SUBMISSION_INSTRUCTIONS.md`](./SUBMISSION_INSTRUCTIONS.md) for
 
 ## Academic Integrity
 
-All submitted work must be your own. You are encouraged to discuss concepts with peers, but code and written answers must be written independently. Any use of external sources and/or AI tool must be cited. Violations will be handled according to university academic misconduct policy.
+All submitted work must be your own. You are encouraged to discuss concepts with peers, but code and written answers must be written independently. Any use of external sources and/or AI tool **must be cited**. Violations will be handled according to university academic misconduct policy.
 
 ---
 
