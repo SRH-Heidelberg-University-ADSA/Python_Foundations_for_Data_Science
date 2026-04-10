@@ -1,9 +1,7 @@
 # Python Foundations for Data Science
 
 ## Module Overview
-This module provides a comprehensive foundation in Python programming tailored for data science applications. Students will develop core programming competencies. From Python syntax and data structures to libraries essential for data manipulation, analysis, and visualisation through a combination of structured lectures and hands-on laboratory sessions.
-
-By the end of this module, students will be equipped with the practical Python skills required for subsequent data science, machine learning, and statistical computing modules.
+This module provides a comprehensive foundation in Python programming tailored for data science applications. Students will develop core programming competencies. From Python syntax and data structures to libraries essential for data manipulation, analysis, and visualisation through a combination of structured lectures and hands-on laboratory sessions. By the end of this module, students will be equipped with the practical Python skills required for subsequent data science, machine learning, and statistical computing modules.
 ---
 
 ## Module Schedule
