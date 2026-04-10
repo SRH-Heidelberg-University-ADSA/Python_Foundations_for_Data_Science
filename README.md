@@ -34,37 +34,37 @@ Python-Foundations-for-Data-Science/
 ├── Week1/                             ← Introduction to Python & Programming Concepts
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 ├── Week2/                             ← Control Flow & Logic
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 ├── Week3/                             ← Core Data Structures
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 ├── Week4/                             ← Functions & Modular Programming
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 ├── Week5/                             ← Files & Input/Output
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 ├── Week6/                             ← Data Analysis Foundations (NumPy & Pandas)
 │   ├── Lecture/
 │   │
-│   └── Lab_Hands-On/
+│   └── Lab-Hands-On/
 │
 └── Week7/                             ← Data Visualisation, APIs & Clean Code
     ├── Lecture/
     │
-    └── Lab_Hands-On/
+    └── Lab-Hands-On/
 ```
 ---
 
