@@ -1,7 +1,9 @@
 # Python Foundations for Data Science
 
 ## Module Overview
+
 This module provides a comprehensive foundation in Python programming tailored for data science applications. Students will develop core programming competencies. From Python syntax and data structures to libraries essential for data manipulation, analysis, and visualisation through a combination of structured lectures and hands-on laboratory sessions. By the end of this module, students will be equipped with the practical Python skills required for subsequent data science, machine learning, and statistical computing modules.
+
 ---
 
 ## Module Schedule
@@ -79,7 +81,7 @@ Before Week 1, ensure the following are installed on your machine:
 | VS Code | Code editor | [code.visualstudio.com](https://code.visualstudio.com/) |
 | GitHub Account | Lab submission | [github.com](https://github.com) |
 
-> 📖 **Full step-by-step installation instructions** for Anaconda / Jupyter Notebook, VS Code, and Google Colab are provided in [`PYTHON_ENVIRONMENT_SETUP.md`](./PYTHON_ENVIRONMENT_SETUP.md). 
+> **Full step-by-step installation instructions** for Anaconda / Jupyter Notebook, VS Code, and Google Colab are provided in [`PYTHON_ENVIRONMENT_SETUP.md`](./PYTHON_ENVIRONMENT_SETUP.md). 
 Please complete your environment setup **before the first lab session**.
 ---
 
@@ -97,7 +99,7 @@ All submitted work must be your own. You are encouraged to discuss concepts with
 
 ## Announcements & Communication
 
-- All module announcements will be posted via **Moodle**. Students are responsible for checking regularly.
+- All module announcements will be posted via **Moodle (e-campus)**. Students are responsible for checking regularly.
 - For Questions related to the Lectures, please contact [Anil Keshav](mailto:anil.keshav.extern@srh-hochschulen.de).
 - For Questions related to the Labs, please contact [Ghadeer Mobasher](mailto:ghadeer.mobasher@srh-hochschulen.de).
 
