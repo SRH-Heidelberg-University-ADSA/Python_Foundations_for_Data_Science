@@ -14,7 +14,7 @@ Dr. Ghadeer Mobasher will access your work by being added as a collaborator (see
 
 ---
 
-## 🗂️ Required Repository Structure
+## Required Repository Structure
 
 Your repository must follow this **exact folder structure**. Each folder corresponds to one week's take-home lab assignment:
 
@@ -290,7 +290,7 @@ for the module *Python Foundations for Data Science*.
 
 ---
 
-## 📅 Submission Deadlines
+## Submission Deadlines
 
 | Assignment | Deadline |
 |------------|----------|

@@ -89,12 +89,16 @@ Please complete your environment setup **before the first lab session**.
 
 All lab take-home assignments are submitted via your **private GitHub repository**.
 Please refer to [`SUBMISSION_INSTRUCTIONS.md`](./SUBMISSION_INSTRUCTIONS.md) for full setup and submission instructions.
+
 ---
 
 ## Academic Integrity
 
-All submitted work must be your own. You are encouraged to discuss concepts with peers, but code and written answers must be written independently. Any use of external sources and/or AI tool **must be cited**. 
+All submitted work must be your own. You are encouraged to discuss concepts with peers, but code and written answers must be written independently. Any use of external sources and/or AI tools **must be cited**. 
+
+
 ---
+
 
 ## Announcements & Communication
 

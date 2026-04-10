@@ -72,5 +72,3 @@ Below are detailed instructions for installing three popular Python environments
    ```
 
 6. Colab also provides free **GPU** and **TPU** resources for running intensive computations.
-
----
