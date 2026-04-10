@@ -1,14 +1,16 @@
 # Lab Take-Home Assignment: Submission Instructions
 
 > **Module:** Python Foundations for Data Science
+
 > **Submission Method:** Private GitHub Repository
+
 > **Collaborator to Add:** `mobashgr`
 
 ---
 
 ## Before You Begin Read Carefully
 
-Each student must maintain their **own individual private GitHub repository** for submitting weekly lab take-home assignments. This repository is **yours alone** . Do not share it with other students or make it public.
+Each student must maintain their **own individual private GitHub repository** for submitting weekly lab take-home assignments. This repository is **yours alone** . Do not share it with other students or make it **public**.
 
 Dr. Ghadeer Mobasher will access your work by being added as a collaborator (see instructions below).
 
