@@ -254,7 +254,7 @@ git push origin main
 | `git: command not found` | Git not installed | Follow Step 4 above |
 | `Permission denied` | Wrong repository URL or not logged in | Check your GitHub login; use HTTPS not SSH |
 | `fatal: not a git repository` | You're in the wrong folder | Run `cd your-repo-name` first |
-| `rejected — non-fast-forward` | Changes exist on GitHub not on your machine | Run `git pull origin main` first, then push again |
+| `rejected — non-fast-forward` | Changes exist on GitHub, not on your machine | Run `git pull origin main` first, then push again |
 | Files not showing on GitHub | You forgot to push | Run `git push origin main` |
 | Collaborator can't see your repo | Invite not accepted or wrong username | Re-check `mobashgr` is added under Settings → Collaborators |
 
@@ -296,7 +296,7 @@ for the module *Python Foundations for Data Science*.
 
 | Assignment | Deadline |
 |------------|----------|
-| Week 1 Lab Take-Home | [DATE] 23:59 |
+| Week 1 Lab Take-Home | 19.04.2026 @ 23:59 |
 | Week 2 Lab Take-Home |TBD|
 | Week 3 Lab Take-Home |TBD |
 | Week 4 Lab Take-Home |TBD |
