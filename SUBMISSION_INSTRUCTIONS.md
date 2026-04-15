@@ -42,9 +42,6 @@ Your repository must follow this **exact folder structure**. Each folder corresp
 │
 ├── Week6-lab-take-home-assignment/
 │   └── [your work files here]
-│
-└── Week7-lab-take-home-assignment/
-    └── [your work files here]
 ```
 
 > **Naming convention is strict.** Folder names must match exactly as shown above (capitalisation, hyphens, no spaces).
