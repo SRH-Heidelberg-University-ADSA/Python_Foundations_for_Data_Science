@@ -10,7 +10,7 @@
 
 ## Before You Begin Read Carefully
 
-Each student must maintain their **own individual private GitHub repository** for submitting weekly lab take-home assignments. This repository is **yours alone** . Do not share it with other students or make it **public**.
+Each student must maintain their **own individual private GitHub repository** for submitting weekly lab take-home assignments. This repository is **yours alone**. Do not share it with other students or make it **public**.
 
 Dr. Ghadeer Mobasher will access your work by being added as a collaborator (see instructions below).
 
@@ -41,10 +41,7 @@ Your repository must follow this **exact folder structure**. Each folder corresp
 │   └── [your work files here]
 │
 ├── Week6-lab-take-home-assignment/
-│   └── [your work files here]
-│
-└── Week7-lab-take-home-assignment/
-    └── [your work files here]
+   └── [your work files here]
 ```
 
 > **Naming convention is strict.** Folder names must match exactly as shown above (capitalisation, hyphens, no spaces).
@@ -148,14 +145,33 @@ mkdir Week5-lab-take-home-assignment
 mkdir Week6-lab-take-home-assignment
 ```
 
-> GitHub does not track empty folders. Add a placeholder file to each so they appear in your repository:
-
+> **GitHub does not track empty folders. Add a placeholder file to each so they appear in your repository**:
+### Linux or macOS (Bash)
 ```bash
 for i in 1 2 3 4 5 6; do
   touch "Week${i}-lab-take-home-assignment/.gitkeep"
 done
 ```
+### Windows: Option (1)
+If you are using Git Bash (installed with Git), you can run the same command as above:
+```bash
+for i in 1 2 3 4 5 6; do
+  touch "Week${i}-lab-take-home-assignment/.gitkeep"
+done
+```
+### Windows: Option (2)
+If you are using Command Prompt
+```bash
+for %i in (1 2 3 4 5 6) do type nul > Week%i-lab-take-home-assignment\.gitkeep
+```
 
+### Windows: Option (3)
+If you are using PowerShell
+```bash
+1..6 | ForEach-Object {
+    New-Item "Week$_-lab-take-home-assignment/.gitkeep" -ItemType File
+}
+```
 Then push the structure to GitHub (see the next section for a full explanation of each command):
 
 ```bash
