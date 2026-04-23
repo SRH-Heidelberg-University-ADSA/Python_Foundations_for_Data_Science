@@ -46,7 +46,7 @@ dist = [
 # Expected output: 80  (route: 0 → 1 → 3 → 2 → 0)
 ```
 
-**Tasks**
+**Tasks (only for reference to solve the problem step by step, you are free to choose an approach of your choice)**
 
 1. Implement a **brute force** solution `tsp_brute(dist)` that tries all permutations of cities and returns the minimum distance. What is the time complexity?
 2. Implement a **dynamic programming** solution `tsp_dp(dist)` using bitmask DP. This is the Held-Karp algorithm — research it and implement it. What is the time complexity compared to brute force?
