@@ -13,3 +13,5 @@ def some_function():
 
 
 dis.dis(some_function)
+
+print("hi")
